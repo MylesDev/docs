@@ -22,6 +22,6 @@ text-align:justify;
 
 <div id="customProductIndex">
 
-<p>Poznaj nasze rozwiązania ułatwiające zarządzanie kopiami zapasowymi usług Private Cloud.</p>
+<p>Poznaj nasze rozwiązania ułatwiające zarządzanie kopiami zapasowymi usług Hosted Private Cloud.</p>
 
 </div>

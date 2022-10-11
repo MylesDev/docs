@@ -22,6 +22,6 @@ text-align:justify;
 
 <div id="customProductIndex">
 
-<p>Descubra nuestras soluciones que le ayudarán a gestionar sus backups de los servicios Private Cloud.</p>
+<p>Descubra nuestras soluciones que le ayudarán a gestionar sus backups de los servicios Hosted Private Cloud.</p>
 
 </div>

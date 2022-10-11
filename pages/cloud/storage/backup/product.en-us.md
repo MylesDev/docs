@@ -22,6 +22,6 @@ text-align:justify;
 
 <div id="customProductIndex">
 
-<p>Explore our solutions, which will help you manage your backups of Private Cloud services.</p>
+<p>Explore our solutions, which will help you manage your backups of Hosted Private Cloud services.</p>
 
 </div>
