@@ -2,7 +2,7 @@
 title: Object Storage - Utilizza S3 Object Storage con Veeam (EN)
 slug: s3/veeam
 section: Configure Object Storage with your solutions
-order: 140
+order: 007
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/veeam/'
 ---

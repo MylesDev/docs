@@ -2,7 +2,7 @@
 title: Object Storage - Utiliser S3 Object Storage avec Veeam
 slug: s3/veeam
 section: Configurer Object Storage avec vos solutions
-order: 140
+order: 007
 ---
 
 **Dernière mise à jour le 3/01/2022**

@@ -156,7 +156,7 @@ aws s3 rm s3://<bucket_name>/test1
 aws s3 rm s3://<bucket_name> --recursive
 # Suppression d'une zone de stockage. Pour supprimer un bucket, il doit être vide.
 aws s3 rb s3://<bucket_name>
-# Si le compartiment n'est pas supprimé, vous pouvez utiliser la même commande avec l'option --force.
+# Si le bucket n'est pas supprimé, vous pouvez utiliser la même commande avec l'option --force.
 # Cette commande supprime tous les objets du bucket, puis supprime le bucket.
 aws s3 rb s3://<bucket_name> --force
 ```
