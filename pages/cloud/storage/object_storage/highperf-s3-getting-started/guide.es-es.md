@@ -1,8 +1,8 @@
 ---
-title: Object Storage - Introducción a la CLI (EN)
-slug: s3/getting-started-with-cli
+title: Object Storage - Introducción al Object Storage (EN)
+slug: s3/getting-started-with-object-storage
 excerpt:
-section: Guides
+section: General guides to start
 order: 020
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/getting-started-with-cli/'

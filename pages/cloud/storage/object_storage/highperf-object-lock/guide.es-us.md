@@ -1,5 +1,5 @@
 ---
-title: Object Storage - Gestión de bloqueo de objetos (WORM) (EN)
+title: Object Storage - Gestión de la inmutabilidad de los objetos con Object Lock (WORM) (EN)
 slug: s3/managing-object-lock
 excerpt:
 section: Tutorials

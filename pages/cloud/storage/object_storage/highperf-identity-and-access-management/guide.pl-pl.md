@@ -2,7 +2,7 @@
 title: Object Storage - Zarządzanie tożsamością i dostępem (EN)
 slug: s3/identity-and-access-management
 excerpt:
-section: Guides
+section: General guides to start
 order: 030
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/identity-and-access-management/'

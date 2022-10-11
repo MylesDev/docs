@@ -2,7 +2,7 @@
 title: Object Storage - Identity and access management
 slug: s3/identity-and-access-management
 excerpt:
-section: Guides
+section: General guides to start
 order: 030
 ---
 

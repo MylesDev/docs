@@ -3,7 +3,7 @@ title: Object Storage
 slug: object-storage
 excerpt:
 order: 01
-sections: "Informations générales, Guides, Tutoriels, Configurer Object Storage avec vos solutions, Spécificités de la classe de stockage Cold Archive, Spécificités de la classe de stockage OpenStack Swift, Spécificités de la classe de stockage d'archive OpenStack Swift"
+sections: "Informations générales, Guides généraux pour débuter, Tutoriels, Configurer Object Storage avec vos solutions, Spécificités de la classe de stockage Cold Archive, Spécificités de la classe de stockage OpenStack Swift, Spécificités de la classe de stockage d'archive OpenStack Swift"
 ---
 
 <style>

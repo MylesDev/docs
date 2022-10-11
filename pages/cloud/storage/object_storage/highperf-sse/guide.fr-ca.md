@@ -3,7 +3,7 @@ title: Object Storage - Chiffrez vos objets côté serveur avec SSE-C
 slug: s3/encrypt-your-objects-with-sse-c
 excerpt:
 section: Tutoriels
-order: 180
+order: 005
 ---
 
 <style>

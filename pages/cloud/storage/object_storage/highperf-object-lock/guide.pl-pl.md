@@ -1,5 +1,5 @@
 ---
-title: Object Storage - Zarządzanie blokadą obiektu (WORM) (EN)
+title: Object Storage - Zarządzanie niezmiennością obiektów za pomocą Object Lock (WORM) (EN)
 slug: s3/managing-object-lock
 excerpt:
 section: Tutorials

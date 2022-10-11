@@ -3,7 +3,7 @@ title: Object Storage - Encrypt your server-side objects with SSE-C
 slug: s3/encrypt-your-objects-with-sse-c
 excerpt:
 section: Tutorials
-order: 180
+order: 005
 ---
 
 <style>

@@ -1,8 +1,8 @@
 ---
-title: Object Storage - Getting started with CLI
-slug: s3/getting-started-with-cli
+title: Object Storage - Getting started with Object Storage
+slug: s3/getting-started-with-object-storage
 excerpt:
-section: Guides
+section: General guides to start
 order: 020
 ---
 

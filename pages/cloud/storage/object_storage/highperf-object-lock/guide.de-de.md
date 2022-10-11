@@ -1,5 +1,5 @@
 ---
-title: Object Storage - Verwalten der Objektsperre (WORM) (EN)
+title: Object Storage - Verwaltung der Objektunveränderlichkeit mit der Objektsperre (WORM) (EN)
 slug: s3/managing-object-lock
 excerpt:
 section: Tutorials

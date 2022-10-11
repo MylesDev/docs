@@ -2,8 +2,8 @@
 title: Object Storage - Use S3 Object Storage with rClone
 slug: s3/rclone
 excerpt: Learn how to set up Rclone to synchronize your files to and from S3 Object Storage.
-section: Tutorials
-order: 110
+section: Configure Object Storage with your solutions
+order: 005
 ---
 
 **Last updated on 3rd January 2022**

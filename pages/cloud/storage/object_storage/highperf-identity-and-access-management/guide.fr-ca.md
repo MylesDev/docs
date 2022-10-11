@@ -2,7 +2,7 @@
 title: Object Storage - Gestion des identités et des accès
 slug: s3/identity-and-access-management
 excerpt:
-section: Guides
+section: Guides généraux pour débuter
 order: 030
 ---
 

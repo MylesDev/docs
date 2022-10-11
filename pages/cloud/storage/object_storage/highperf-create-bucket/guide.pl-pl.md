@@ -1,7 +1,7 @@
 ---
 title: Object Storage - Tworzenie wiadra (EN)
 slug: s3/create-bucket
-section: Guides
+section: General guides to start
 order: 040
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/create-container/'

@@ -1,7 +1,7 @@
 ---
-title: Object Storage - "Création d'un bucket"
+title: "Object Storage - Création d'un bucket"
 slug: s3/create-bucket
-section: Guides
+section: Guides généraux pour débuter
 order: 040
 ---
 

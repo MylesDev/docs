@@ -1,5 +1,5 @@
 ---
-title: Object Storage - "Gestion de l'Object Lock (WORM)"
+title: "Object Storage - Gestion de l'immuabilité des objets avec Object Lock (WORM)"
 slug: s3/managing-object-lock
 excerpt:
 section: Tutoriels

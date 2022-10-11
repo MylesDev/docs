@@ -3,7 +3,7 @@ title: Object Storage - Cifre sus objetos del lado del servidor con SSE-C (EN)
 slug: s3/encrypt-your-objects-with-sse-c
 excerpt:
 section: Tutorials
-order: 180
+order: 005
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/encrypt-your-objects-with-sse-c/'
 ---
